@@ -1,0 +1,31 @@
+#quiz {
+    width: auto;
+    /* background-color: white; */
+    position: center;
+}
+#quiz_header {
+    text-align: center;
+}
+
+.choice {
+    display: flex;
+    flex-wrap: wrap;
+    /* display: inline-flex; */
+    position: center;
+}
+#table_item {
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    /* background-color: coral */
+}
+
+#center_wrap {
+    margin: 0 auto;
+    display: flex;
+}
+
+#character {
+    padding-left: 100px;
+}
+hr {width:600px;}

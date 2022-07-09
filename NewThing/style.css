@@ -1,0 +1,142 @@
+@import url('https://fonts.googleapis.com/css2?family=Jua&display=swap');
+
+a{
+  text-decoration:none;
+  color:black;
+}
+
+#Back #Top .Title{
+  color:rgb(0, 140, 58);
+}
+
+#Back{
+  padding:25px 0 25px 0;
+  text-align:center;
+  background-color:rgb(245, 245, 245);
+}
+
+#Back #Top{
+  width:1100px;
+  margin:0 200px 0 200px;
+}
+
+#Top .Title{
+  font-family: 'Jua', sans-serif;
+  font-size:25pt;
+  float:left;
+}
+
+#Top .cat{
+  font-weight:bold;
+  font-size:15pt;
+}
+
+.Quiz{
+  padding:0 50px 0 100px;
+}
+
+.Korea{
+  padding:0 50px 0 50px;
+}
+
+.China{
+  padding:0 50px 0 50px;
+}
+
+.Japan{
+  padding:0 50px 0 50px;
+}
+
+.English{
+  padding:0 50px 0 50px;
+}
+
+.Etc{
+  padding:0 0 0 50px;
+}
+
+
+
+
+
+.Shift{
+  float:right;
+}
+
+.Left{
+  float:left;
+  padding-left:50px;
+  width:600px;
+}
+
+.Right{
+  float:right;
+  overflow:auto;
+  height:712px;
+  padding-right:50px;
+  width:400px;
+}
+
+article{
+  margin:0 200px 0 200px;
+  width:1100px;
+}
+
+footer {
+    background-color:rgb(245, 245, 245);
+    color:black;
+    display: inline-block;
+    -webkit-font-smoothing: antialiased;
+}
+
+footer ul li.color a {
+  color: black;
+  font-weight:bold;
+}
+
+footer ul li a {
+    color: black;
+  font-weight:bold;
+    font-size: 15px;
+}
+
+
+footer ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+a:visited, a:active {
+    text-decoration: none;
+}
+
+a {
+    transition: 0.2s ease;
+    text-decoration: none;
+}
+
+a, a:hover, a:active, a:focus, button, button:hover, button:active, button:focus, input, input:hover, input:active, input:focus {
+    transition: 0.4s ease;
+}
+
+footer ul li a:focus, footer ul li a:hover {
+    color: #fff;
+}
+
+footer ul li.color a:hover {
+    color: #fff580;
+}
+
+footer .copyright .info .copy{
+    text-transform: uppercase;
+}
+
+  /* 메인페이지 각 아이템.? */
+  .menu-bar, .blue-bar, .mySlides, footer {
+      width:1500px;
+  }
+
+  .footerform {
+    position: relative;
+    padding-left: 1250px;
+}
